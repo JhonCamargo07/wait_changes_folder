@@ -25,8 +25,6 @@ def read_config():
 
         print(f'Error to read configuration file: {e}')
         sys.exit()
-    print(wait_time_in_seg, command_to_execute,
-          show_response_executed_command, default_folder)
     return wait_time_in_seg, command_to_execute, show_response_executed_command, default_folder
 
 
