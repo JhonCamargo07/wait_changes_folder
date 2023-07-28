@@ -41,6 +41,6 @@ def get_value_true(value_to_validate, default_value):
         return default_value
 
     except Exception as e:
-        print('Validacion error', e)
+        print('Validation error', e)
 
     return default_value
