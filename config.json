@@ -1,4 +1,5 @@
 {
-  "waitTimeInSeg": 5,
-  "commandToExecute": "build.bat"
+	"waitTimeInSeg": 5,
+	"commandToExecute": "echo  hola",
+	"showResponseExecutedCommand": true
 }
