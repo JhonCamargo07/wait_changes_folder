@@ -1,0 +1,4 @@
+{
+  "waitTimeInSeg": 5,
+  "commandToExecute": "build.bat"
+}
